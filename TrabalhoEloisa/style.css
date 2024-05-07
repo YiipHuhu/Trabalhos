@@ -87,3 +87,8 @@ a {
   box-shadow: 2px 2px 30px #FFCDCD;
   margin: 10px;
 }
+.galeria img:hover {
+  transform: scale(1.05);
+  transition: 0.5s;
+
+}
